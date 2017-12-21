@@ -20,7 +20,7 @@
  //  // throw exception if something gone wrong
  //  if($twitteroauth->getLastHttpCode() != 200) {
  //      throw new \Exception('There was a problem performing this request');
- //  }
+ //  }. 
 
  //  // save token of application to session
  //  $_SESSION['oauth_token'] = $request_token['oauth_token'];
